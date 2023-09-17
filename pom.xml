@@ -28,6 +28,16 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+        <dependency>
+            <groupId>cloud.piranha.servlet</groupId>
+            <artifactId>piranha-servlet-webservlet</artifactId>
+            <version>20.4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>cloud.piranha.servlet</groupId>
+            <artifactId>piranha-servlet-webservlet</artifactId>
+            <version>20.4.0</version>
+        </dependency>
     </dependencies>
 
     <build>
